@@ -16,12 +16,12 @@ To get started with this project, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/Bhanu-partap-13/javascript-todo-website.git
+    git clone https://github.com/Bhanu-partap-13/TODO-APP.git
     ```
 
 2. **Navigate to the project directory**:
     ```bash
-    cd javascript-todo-website
+    cd TODO-APP
     ```
 
 3. **Open `index.html` in your web browser** to view the TODO list application.
